@@ -4,7 +4,7 @@ A simple SPA for a Pomodoro Timer with validation of inputs using zod, and a his
 - Developed using React with Typescript
 
 ## Setup
-inside ignite-feed, install dependencies:
+inside ignite-timer, install dependencies:
 ```
 npm install
 ```
