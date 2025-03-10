@@ -61,6 +61,7 @@ export default [
                 args: 'after-used', 
                 ignoreRestSiblings: true 
             }],
+            '@typescript-eslint/no-explicit-any': 'warn',
         },
         settings: {
             react: {
